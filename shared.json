@@ -1,0 +1,6 @@
+{
+    "name": "Shared",
+    "service-category": "bronze",
+    "users": ["SharedDataUsers"],
+    "managers": ["SharedDataStewards"]
+}
