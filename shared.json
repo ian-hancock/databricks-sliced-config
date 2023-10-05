@@ -2,5 +2,7 @@
     "name": "Shared",
     "service-category": "bronze",
     "users": ["SharedDataUsers"],
-    "managers": ["SharedDataStewards"]
+    "managers": ["SharedDataStewards"],
+    "AppCategory": "C",
+    "SupportEscalation": "somesharedemail@parts-unlimited.com"
 }
